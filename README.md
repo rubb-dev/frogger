@@ -1,2 +1,4 @@
-# M05_UF3_P3_Frogger
+# Frogger
 ![uml diagram](UML.png)
+
+Recreación de mítico juego frogger con C++ y POO
